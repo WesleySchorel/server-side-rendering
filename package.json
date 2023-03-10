@@ -1,19 +1,15 @@
 {
-  "name": "connect-your-tribe-profile-card",
+  "name": "server-side-rendering",
   "version": "1.0.0",
-  "description": "Redesign je visitekaartje op basis van een bestaande API.",
-  "main": "index.js",
+  "description": "Ontwerp en ontwikkel een server-side website voor een opdrachtgever.",
+  "main": "app.js",
   "type": "module",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fdnd-task/connect-your-tribe-profile-card.git"
   },
   "keywords": [
     "node",
@@ -23,9 +19,9 @@
   "author": "J.P. Sturkenboom <j.p.sturkenboom@hva.nl>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/fdnd-task/connect-your-tribe-profile-card/issues"
+    "url": "https://github.com/fdnd-task/server-side-rendering/issues"
   },
-  "homepage": "https://github.com/fdnd-task/connect-your-tribe-profile-card#readme",
+  "homepage": "https://github.com/fdnd-task/server-side-rendering#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
