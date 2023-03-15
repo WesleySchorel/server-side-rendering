@@ -138,6 +138,7 @@ ul {
   border-radius: 12px;
   box-shadow: var(--box-shadow);
   padding: 15px 20px;
+  margin-top: 1rem;
 }
 
 @media (max-width: 600px) {
@@ -223,12 +224,7 @@ article button:hover {
   width: 100%;
 }
 
-ul {
-  display: flex;
-  list-style: none;
-  padding: 0px;
-  justify-content: space-between;
-}
+
 
 @media (min-width: 1024px) {
   .mobile-navbar {
@@ -540,6 +536,7 @@ select {
   outline: none;
   font-size: 18px;
   transition: 0.4s;
+  margin-top: 1rem;
 }
 
 .active,

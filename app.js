@@ -1,7 +1,7 @@
 // Importeer express uit de node_modules map
 import express, { json, response } from 'express'
 
-const url = 'https://api.vervoerregio-amsterdam.fdnd.nl/api/v1/principles'
+const url = 'https://api.vervoerregio-amsterdam.fdnd.nl/api/v1/principes'
 const data = await fetch(url). then((response) => response.json())
 
 // Maak een nieuwe express app aan
