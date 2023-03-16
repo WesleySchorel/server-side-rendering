@@ -22,7 +22,7 @@ De twee userstories die ik heb uitgevoerd zijn:
 https://doubtful-sweatpants-dog.cyclic.app/
 
 ## Kenmerken
-Deze website is gebouwt met verschillende technologieën. 
+Deze website is gebouwt met verschillende technologieën. De technologiën die ik heb gebruikt zijn met Node, Express en EJS en een REST API.
 
 ### Node
 ```js
