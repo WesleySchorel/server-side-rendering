@@ -12,6 +12,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
+Vervoerregio Amsterdam wilt een website waarop een overzicht van de verplichtingen voor toegankelijkheid van website's bekeken kunnen worden. Aan de hand van deze criteria die op de website te vinden zal zijn kan Vervoerregio Amsterdam haar partners controleren op toegankelijkheid.
 
 De twee userstories die ik heb uitgevoerd zijn:
 > 1. Als gebruiker wil ik een overzicht van toegankelijkheidsrichtlijnen kunnen bekijken, om te begrijpen wat er moet gebeuren om een website/app toegankelijker te maken.
