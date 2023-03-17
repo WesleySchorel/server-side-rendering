@@ -9,19 +9,14 @@
           <%})%>
     </article>
 
-    <br>
-    <br>
-
     <% api.principes.forEach( principe=> { %>
       <article class="kennisbank-article" id="waarneembaar">
         <h2>
           <%= principe.titel %>
         </h2>
         <p>Verklaring Digitale toegankelijkheid | <%= principe.titel %>
-            <br>
-            <hr><br>
+            <hr>
             <%- principe.beschrijving.html %>
-            <br><br>
         </p>
 
         <% principe.richtlijnen.forEach( richtlijn=> { %>
@@ -30,11 +25,9 @@
           </button>
           <div class="panel">
             <p>
-              <br>
             <h3>Richtlijn: <%= richtlijn.index %>
             </h3>
             <%- richtlijn.uitleg.html %>
-              <br><br>
               </p>
           </div>
           <% }) %>
@@ -42,9 +35,6 @@
       </article>
 
       <% }) %>
-
-        <br>
-        <br>
 
 
 
