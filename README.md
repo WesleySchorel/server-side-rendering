@@ -1,6 +1,6 @@
 # Vervoerregio Amsterdam (Server-side-rendering)
 
-![image](https://user-images.githubusercontent.com/112857487/225697241-a06e366e-31a8-46e9-8024-922d1443eb40.png)
+![image](https://user-images.githubusercontent.com/112857487/225860094-904ec169-f599-455f-8560-8a809435e838.png)
 
 ## Inhoudsopgave
 
